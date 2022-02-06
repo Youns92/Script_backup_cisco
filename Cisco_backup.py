@@ -12,7 +12,7 @@ import paramiko as paramiko
 
 def run():
     messagebox.showinfo('information', 'En cours...')
-    time.sleep(1)
+    time.sleep(2)
     backup_switch()
 
 
