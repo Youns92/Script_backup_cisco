@@ -10,7 +10,7 @@ git clone https://github.com/Youns92/Script_backup_cisco
 
 cd Script_backup_cisco
 
-python3 Script_backup_cisco.py
+python3 Cisco_backup.py
 
 # Use
 Indicate your ip in the file cisco.txt, then launch the backup
