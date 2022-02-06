@@ -7,7 +7,9 @@ Allows to automate the backup of your Cisco equipment, written in python and usi
 # Install
 
 git clone https://github.com/Youns92/Script_backup_cisco
+
 cd Script_backup_cisco
+
 python3 Script_backup_cisco.py
 
 # Use
