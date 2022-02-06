@@ -1,5 +1,5 @@
 # Script_backup_cisco
-Switch Backup written in python, using tkinder
+Allows to automate the backup of your Cisco equipment, written in python and using tkinter 
 
 ![image](https://user-images.githubusercontent.com/56968891/152676675-7d290fc7-b38d-4ce6-8b5e-1cc74573f4a1.png)
 
